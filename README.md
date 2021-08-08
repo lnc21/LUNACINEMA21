@@ -1,3 +1,5 @@
+<p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-b7q4MJZ4uYY/YNxLS7KWMjI/AAAAAAAAD1Q/qjN9m1dg4-QLVErdh7whJQyQxDGcovG0QCLcBGAsYHQ/s1366/Kantai-Collection.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="768" data-original-width="1366" src="https://1.bp.blogspot.com/-b7q4MJZ4uYY/YNxLS7KWMjI/AAAAAAAAD1Q/qjN9m1dg4-QLVErdh7whJQyQxDGcovG0QCLcBGAsYHQ/s16000/Kantai-Collection.jpg" /></a></div><br />&nbsp;<p></p>
+
 ### INFORMATION
 **Lunacinema21** is Android Movie & WebSeries Application. 
 The android app builds with native java.
