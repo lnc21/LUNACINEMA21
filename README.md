@@ -34,12 +34,10 @@ The android app builds with native java.
 
 > You can contact us on the following social media
 
-- **[SOURCEFORGE](https://sourceforge.net/projects/lunacinema21/)**
+- **[Linktree](https://linktr.ee/lunacinema21/)**
 
 - **[INSTAGRAM](https://www.instagram.com/lunacinema21)**
 
 - **[FACEBOOK](https://www.facebook.com/lunacinema21)**
 
 - **[TWITTER](https://twitter.com/lunacinema21)**
-
-[![Download LUNACINEMA21](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/lunacinema21/files/latest/download)
